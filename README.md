@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Leaning Engineer
 ------------------------
 
-i am a full-time Machine Learning Engineer 👨‍💻 working as a intern at Packapeer Academy since 2022 Oct
+I am a full-time Machine Learning Engineer 👨‍💻 working as a intern at Packapeer Academy since 2022 Oct
 
 * 🌍  I'm based in India,Kerala
 * ✉️  You can contact me at [jayeshpt2000@gmail.com](mailto:jayeshpt2000@gmail.com)
